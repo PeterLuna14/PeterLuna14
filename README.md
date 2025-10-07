@@ -1,4 +1,3 @@
-## Hi there 👋
 ### ¡Hola! Soy Pedro Luna 👋
 
 Soy un desarrollador principiante en formación, apasionado por la tecnología y videojuegos.
